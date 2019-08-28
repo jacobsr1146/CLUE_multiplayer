@@ -1,0 +1,19 @@
+--------------------------
+|GGGGGGGG|    |BBBBBBB|CC|
+|GGGGGGGGG    |BBBBBBBCCC|
+|GGGGGGGG|    |BBBBBBB|CC|
+|GGGGGGGG|    BBBBBBBB|CC|
+|GGGGGGGG|    |BBBBBBB|CC|
+|--------     -----------|
+|MMMMM|          |KKKKKKK|
+|MMMMM|   -R--   |KKKKKKK|
+|MMMMM|   |RR|   KKKKKKKK|
+|--MM--   ----   |KKKKKKK|
+|                |KKKKKKK|
+|             -----------|
+|----OO---    |LLLLLLLLLL|
+|OOOOOOOO|    LLLLLLLLLLL|
+|OOOOOOOO|    LLLLLLLLLLL|
+|OOOOOOOO|    |LLLLLLLLLL|
+|OOOOOOOO| FF |LLLLLLLLLL|
+--------------------------
